@@ -10,7 +10,6 @@ The criteria for including a set of recordings as a *cycle*  are:
 - The number of recordings are not sisgnificative, but they are worth to be included due to its historical value
 
 
+## Exceptions to the definition of cycle
 
-
-
-
+- unknown yet
